@@ -1,0 +1,6 @@
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\Componentes\bin\Debug\Componentes.dll
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\Componentes\bin\Debug\Componentes.pdb
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\Componentes\obj\Debug\Componentes.csprojAssemblyReference.cache
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\Componentes\obj\Debug\Componentes.dll
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\Componentes\obj\Debug\Componentes.pdb

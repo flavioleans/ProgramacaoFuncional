@@ -1,0 +1,24 @@
+C:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe.config
+C:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe
+C:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.pdb
+C:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csprojAssemblyReference.cache
+C:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csproj.CoreCompileInputs.cache
+C:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.exe
+C:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.pdb
+F:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe.config
+F:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe
+F:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.pdb
+F:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csprojAssemblyReference.cache
+F:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csproj.CoreCompileInputs.cache
+F:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.exe
+F:\Users\Flávio Leandro\source\repos\EstudoC#\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.pdb
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe.config
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.exe
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\ProgramacaoFuncional.pdb
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csprojAssemblyReference.cache
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.exe
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.pdb
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\Componentes.dll
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\bin\Debug\Componentes.pdb
+D:\ProjetosC#\TorneSeUmProgramador\ProgramacaoFuncional\ProgramacaoFuncional\obj\Debug\ProgramacaoFuncional.csproj.CopyComplete
